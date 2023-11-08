@@ -1,0 +1,13 @@
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Factorial.resources
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.customers.resources
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.ShowCustomers.resources
