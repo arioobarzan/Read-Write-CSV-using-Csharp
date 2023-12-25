@@ -11,3 +11,7 @@ C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\Window
 C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Factorial.resources
 C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.customers.resources
 C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.ShowCustomers.resources
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\Database1.mdf
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\Database1_log.ldf
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Phones.resources
+C:\Users\gheir\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.AddPhone.resources
