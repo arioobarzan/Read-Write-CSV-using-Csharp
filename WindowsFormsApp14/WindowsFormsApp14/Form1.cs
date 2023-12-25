@@ -39,5 +39,17 @@ namespace WindowsFormsApp14
             ShowCustomers sc = new ShowCustomers();
             sc.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Phones ph = new Phones();
+            ph.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            AddPhone ap = new AddPhone();
+            ap.Show();
+        }
     }
 }

@@ -25,6 +25,7 @@ namespace WindowsFormsApp14
             for (int i = 0; i < lines.Length; i++)
             {
                 listBox2.Items.Add(lines[i]);
+                comboBox1.Items.Add(lines[i]);
             }
 
         }
